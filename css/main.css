@@ -19,7 +19,7 @@
     overflow: hidden;
 
 }
-/* #sprite{
+#sprite{
     width: 1472px;
     height: auto;
     transform: translateX(0);
@@ -32,4 +32,4 @@
     100%{
       transform: translateX(-1472px);
     }
-} */
+}
